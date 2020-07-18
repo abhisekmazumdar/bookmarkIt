@@ -2,5 +2,9 @@
     "name": "BookmarkIt",
     "version": "1.0",
     "description": "Bookmark all the open tabs of the active window into organised bookmark folder.",
+    "browser_action": {
+        "default_icon": "images/logo.png",
+        "default_popup": "popup.html"
+    },
     "manifest_version": 2
   }
