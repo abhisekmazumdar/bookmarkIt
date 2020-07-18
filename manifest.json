@@ -1,0 +1,6 @@
+{
+    "name": "BookmarkIt",
+    "version": "1.0",
+    "description": "Bookmark all the open tabs of the active window into organised bookmark folder.",
+    "manifest_version": 2
+  }
