@@ -18,7 +18,7 @@ Coming soon on [Chrome Web Store](https://chrome.google.com/webstore/).
 2. In Chrome, open the Extensions settings. (Wrench button, Tools, Extensions.)
 3. On the Extensions settings page, click the "Developer Mode" checkbox.
 4. Click the now-visible "Load unpacked extension…" button. Navigate to the directory where you cloned the repo, then the `src` directory under that.
-5. The *BookmarkIt* extension should now be visible in your extensions list.
+5. The _BookmarkIt_ extension should now be visible in your extensions list.
 
 ## Usage Instructions
 
